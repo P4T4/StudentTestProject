@@ -25,8 +25,8 @@ To test the apiProject only you need to solve the migrations and connect with da
 - GET/api/list
 - GET/api/getById
 
-The way to consume the request is for example:
+The way to consume the request is, for example:
 - If you run from xampp: http://localhost/testProject/apiProject/public/api/list
 - If you run from "php artisan serve": http://127.0.0.1:8000/api/list
 
-That's it, i apreciate you comments
+That's it, i apreciate your comments
